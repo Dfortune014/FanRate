@@ -36,7 +36,7 @@ const trendingPlayers: TrendingPlayerProps[] = [
   },
   {
     id: '3',
-    name: 'De'Von Achane',
+    name: 'De\'Von Achane',
     team: 'Miami Dolphins',
     position: 'RB',
     image: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4569913.png',
